@@ -1,0 +1,84 @@
+#six{
+    border:0px solid red;
+    display: flex;
+    
+    justify-content: space-around;
+    width:90%;
+    margin: auto;
+}
+#six img{
+    width:150px;
+}
+#seven{
+    border:0px solid blue;
+    width:40%
+}
+#eight{
+    border:0px solid green;
+    display:flex;
+    padding:5px 10px;
+    gap:40px;
+    width:60%;
+    justify-content: space-evenly;
+}
+#eight div{
+    border:0px solid red;
+    width:22%;
+    text-align: justify;
+
+}
+#eight p:hover{
+    color: blue;
+    font-size:18px;
+    font-weight:300;
+    cursor: pointer;
+    
+
+}
+#eight h6{
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+#log{
+    border:0px solid red;
+    display: flex;
+    width:40%;
+    margin-top: 40px;
+    justify-content: space-evenly;
+}
+#log div{
+    border: 0px solid black;
+    width:10%;
+    
+
+}
+ #log h5{
+    font-size: 20px;
+}
+#log img{
+    width:100%;
+    height:100%;
+}
+#btn5{
+    height: 50px;
+    width:130px;
+    border: 2px solid #2240ea;
+    color:#2240ea;
+    border-radius: 5px;
+    font-size: 17px;
+    cursor: pointer;
+}
+#btn6{
+    height: 50px;
+    width:130px;
+    border: 2px solid #2240ea;
+    color:#2240ea;
+    border-radius: 5px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+#food{
+    padding-top: 15px;
+}

@@ -1,0 +1,55 @@
+nav{
+    border:0px solid red;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    height: 130px;
+    position: sticky;
+    /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#navbar >div>img{
+ width: 130px;
+ border:0px solid black ;
+ margin-top: 13px;      
+}
+#navbar>div>img:nth-child(2){
+    width:30px;
+    border:0px solid black;
+    margin-bottom: 25px;
+   
+    
+}
+
+#links{
+    margin-top: 30px;
+    border: 0px solid black;
+    width: 550px;
+    font-size: 25px; 
+    padding:5px
+}
+#links a{
+    padding:10px;
+    color: black;
+    text-decoration: none;
+}
+
+#bt a{
+     font-size: 25px;
+     color:blue;
+     text-decoration: none;
+     cursor: pointer;
+}
+#bt button{
+    
+    height: 50px;
+    width:200px;
+    font-size: 20px;
+    margin:25px;
+    color: white;
+    background-color: #2240ea;
+    border-radius: 5px;
+    border: 1px solid #2240ea;
+    cursor: pointer;
+    
+}
