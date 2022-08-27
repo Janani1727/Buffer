@@ -8,7 +8,10 @@ nav{
     /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
-#navbar >div>img{
+#navbar a{
+    text-decoration: none;
+}
+#navbar >div >a>img{
  width: 130px;
  border:0px solid black ;
  margin-top: 13px;      

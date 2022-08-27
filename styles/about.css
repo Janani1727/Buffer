@@ -402,6 +402,12 @@ button.accordion {
 #im img{
      width:100%;
      height: 100%;
+     
+}
+
+#im {
+  background-image: url("https://thailand.mfa.gov.ua/storage/app/sites/76/tripadvisor.png");
+  text-align: center;
 }
 
 

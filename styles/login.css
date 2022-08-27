@@ -7,7 +7,7 @@
      
 }
 
-#logo>img{
+#logo>a>img{
     width:120px;
     height:70px;
     margin-right: 100px;
