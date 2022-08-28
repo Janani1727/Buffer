@@ -39,6 +39,24 @@ font-family: sans-serif;
 border: 1px solid #2240ea;
 cursor: pointer;
 }
+#btn1:hover{
+    background-color: blue;
+}
+#btn22{
+    height: 60px;;
+    width:200px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    color: blue;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+#btn22  a:hover{
+    
+    
+    color: black;
+}
 #btn2{
 height: 60px;;
 width:200px;
@@ -47,6 +65,11 @@ border-radius: 5px;
 color: blue;
 font-size: 17px;
 cursor: pointer;
+}
+#btn2:hover{
+    
+    background-color: blue;
+    color: white;
 }
 #logos{
 display: flex;
@@ -110,6 +133,11 @@ border:0px solid red
 color:blue;
 font-family: sans-serif;
 }
+#one>div>:nth-child(1):hover{
+   text-decoration: underline;
+   cursor: pointer;
+    }
+
 #one>div>:nth-child(3){
 font-size: 20px;
 font-family: sans-serif;
@@ -153,6 +181,10 @@ font-size: 20px;
 
 
 }
+#two>div>:nth-child(1):hover{
+    text-decoration: underline;
+    cursor: pointer;
+     }
 #two>div>:nth-child(3){
 font-size: 20px;
 font-family: sans-serif;
@@ -195,6 +227,10 @@ border:0px solid red
 color:blue;
 font-family: sans-serif;
 }
+#three>div>:nth-child(1):hover{
+    text-decoration: underline;
+    cursor: pointer;
+     }
 #three>div>:nth-child(3){
 font-size: 20px;
 font-family: sans-serif;
@@ -221,6 +257,10 @@ color:blue;
 font-family: sans-serif;
 font-size: 20px;
 }
+#four>p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+     }
 #four>:nth-child(2){
 border: 0px solid red;
 width:45%;
@@ -341,6 +381,10 @@ font-size:19px;
 font-family: sans-serif;
 cursor: pointer;
 }
+#fivediv2>button:hover{
+      background-color: blue;
+      color: white;
+}
 
 
 h4{
@@ -390,7 +434,7 @@ h4{
     padding-top: 170px;
     
 }
-#btn3 button{
+#btn33 button{
     height:70px;
     width:200px;
     margin-left:650px;
@@ -400,4 +444,11 @@ h4{
     border: 1px solid  #e97284 ;
     font-size: 20px;
     cursor: pointer;
+}
+#btn33 >a>button:hover{
+    background-color:  #ed4c64;
+}
+
+#food{
+    padding-top: 15px;
 }
