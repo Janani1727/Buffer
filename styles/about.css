@@ -168,7 +168,7 @@
 
        }
        #logos div{
-        border:1px solid black
+        border:0px solid black
        }
        #logos div img{
         width:100%;
@@ -213,7 +213,7 @@
     #road >div >img{
         height: 20%;
         width:30%;
-        border: 1px solid blue;
+        border: 0px solid blue;
         margin-right: 30px;
 
     }
