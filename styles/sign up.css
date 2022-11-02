@@ -43,6 +43,12 @@ input{
 #sub{
     cursor: pointer;
 }
+
+#sub:hover{
+    background-color: #3b3a3a;
+    color:white;
+    font-weight: 500;
+}
 label{
     line-height: 20px;
     font-size: 17px;

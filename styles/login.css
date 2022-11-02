@@ -33,6 +33,9 @@
 #sub{
     cursor: pointer;
 }
+#sub:hover{
+    background-color: blue;
+}
 input{
     width:430px;
     height: 40px;
@@ -115,7 +118,7 @@ h1{
 #pics img{
     height: 500px;
     width: 800px;
-    margin-top: -217px;
+    margin-top: -200px;
     margin-left: 200px;
 }
 #top{
@@ -137,3 +140,5 @@ h1{
 #top h1{
     font-weight: 700;
 }
+
+

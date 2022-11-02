@@ -30,7 +30,7 @@
 #eight p:hover{
     color: blue;
     font-size:18px;
-    font-weight:300;
+    font-weight:700;
     cursor: pointer;
     
 
@@ -69,6 +69,10 @@
     font-size: 17px;
     cursor: pointer;
 }
+#btn5:hover{
+    background-color: blue;
+    color: white;
+}
 #btn6{
     height: 50px;
     width:130px;
@@ -77,6 +81,10 @@
     border-radius: 5px;
     font-size: 17px;
     cursor: pointer;
+}
+#btn6:hover{
+    background-color: blue;
+    color: white;
 }
 
 #food{
